@@ -1,5 +1,4 @@
 ---
-title: Welcome to my Christian's blog
+title: Welcome to my blog
 ---
 
-###### OMIS 452
